@@ -1,0 +1,10 @@
+@book{orwell19771984,
+  title={1984: A Novel},
+  author={Orwell, G. and Fromm, E.},
+  isbn={9780451524935},
+  lccn={83165326},
+  series={Crowley ISD Novel List 9},
+  url={https://books.google.co.uk/books?id=yxv1LK5gyV4C},
+  year={1977},
+  publisher={Signet Classic}
+}

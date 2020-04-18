@@ -1,0 +1,15 @@
+﻿<Window x:Class="RefthisLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RefthisLauncher"
+        mc:Ignorable="d"
+        Title="Refthis!" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Go_Button" Content="Start Server" Click="btnGo_Click" HorizontalAlignment="Left" Margin="239,237,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Stop_Button" Content="Stop Server" Click="btnStop_Click" HorizontalAlignment="Left" Margin="443,237,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="314,123,0,0" TextWrapping="Wrap" Text="Refthis! v1.0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+
+    </Grid>
+</Window>
