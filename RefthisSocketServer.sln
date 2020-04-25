@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBNParser", "ISBNParser\IS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefthisLauncher", "RefthisLauncher\RefthisLauncher.csproj", "{2B5DF95F-B843-46FF-AFD7-3FD5DEA541AA}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "SocketService", "SocketService\SocketService.ccproj", "{F3CA7CF3-FEA2-42BB-A90A-D1B8D5250F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{EAF23711-ED55-4185-88D5-FCB25B547F5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2B5DF95F-B843-46FF-AFD7-3FD5DEA541AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B5DF95F-B843-46FF-AFD7-3FD5DEA541AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B5DF95F-B843-46FF-AFD7-3FD5DEA541AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CA7CF3-FEA2-42BB-A90A-D1B8D5250F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CA7CF3-FEA2-42BB-A90A-D1B8D5250F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CA7CF3-FEA2-42BB-A90A-D1B8D5250F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CA7CF3-FEA2-42BB-A90A-D1B8D5250F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF23711-ED55-4185-88D5-FCB25B547F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF23711-ED55-4185-88D5-FCB25B547F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF23711-ED55-4185-88D5-FCB25B547F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF23711-ED55-4185-88D5-FCB25B547F5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
